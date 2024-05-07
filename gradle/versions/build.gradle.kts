@@ -128,7 +128,7 @@ dependencies.constraints {
     api("org.apache.logging.log4j:log4j-api:2.21.1") {
         because("org.apache.logging.log4j")
     }
-    api("org.apache.logging.log4j:log4j-core:2.21.1") {
+    api("org.apache.logging.log4j:log4j-core:2.23.1") {
         because("org.apache.logging.log4j.core")
     }
     api("org.apache.logging.log4j:log4j-slf4j2-impl:2.21.1") {
