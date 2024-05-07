@@ -174,7 +174,7 @@ dependencies.constraints {
     api("org.junit.platform:junit-platform-engine :1.9.1") {
         because("org.junit.platform.engine")
     }
-    api("org.junit-pioneer:junit-pioneer:2.0.1") {
+    api("org.junit-pioneer:junit-pioneer:2.2.0") {
         because("org.junitpioneer")
     }
     api("org.mockito:mockito-core:5.8.0") {
