@@ -140,7 +140,7 @@ dependencies.constraints {
     api("org.bouncycastle:bcpkix-jdk18on:1.78") {
         because("org.bouncycastle.pkix")
     }
-    api("org.bouncycastle:bcprov-jdk18on:1.78") {
+    api("org.bouncycastle:bcprov-jdk18on:1.78.1") {
         because("org.bouncycastle.provider")
     }
     api("org.eclipse.collections:eclipse-collections-api:10.4.0") {
