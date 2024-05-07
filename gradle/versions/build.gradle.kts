@@ -1,5 +1,5 @@
 dependencies.constraints {
-    api("org.awaitility:awaitility:4.2.0") {
+    api("org.awaitility:awaitility:4.2.1") {
         because("awaitility")
     }
     api("com.fasterxml.jackson.core:jackson-core:2.16.0") {
