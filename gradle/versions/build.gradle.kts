@@ -32,7 +32,7 @@ dependencies.constraints {
     api("com.google.protobuf:protobuf-java:3.21.7") {
         because("com.google.protobuf")
     }
-    api("com.google.protobuf:protobuf-java-util:3.21.7") {
+    api("com.google.protobuf:protobuf-java-util:4.27.0") {
         because("com.google.protobuf.util")
     }
     api("com.hedera.pbj:pbj-runtime:0.8.7") {
