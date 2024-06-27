@@ -59,7 +59,7 @@ dependencies.constraints {
     api("io.grpc:grpc-stub:1.54.1") {
         because("grpc.stub")
     }
-    api("com.esaulpaugh:headlong:6.1.1") {
+    api("com.esaulpaugh:headlong:12.0.0") {
         because("headlong")
     }
     api("info.picocli:picocli:4.6.3") {
